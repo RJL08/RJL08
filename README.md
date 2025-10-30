@@ -155,6 +155,14 @@ Desarrollo de aplicaciones web fullstack.
 ## 🎯 Áreas de Especialización
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 
+  'primaryColor':'#fff9c4',
+  'primaryTextColor':'#1a1a1a',
+  'primaryBorderColor':'#f57f17',
+  'lineColor':'#42a5f5',
+  'secondaryColor':'#a5d6a7',
+  'tertiaryColor':'#90caf9'
+}}}%%
 mindmap
   root((Rubén<br/>Jiménez))
     Desarrollo
